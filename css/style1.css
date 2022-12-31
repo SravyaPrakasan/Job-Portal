@@ -1,0 +1,27 @@
+body{
+    background-image: url(../images/linkedin-sales-solutions-0QvTyp0gH3A-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    padding: 50px;
+}
+.container form{
+    width:450px;
+    box-shadow: 10px 10px 8px 10px rgb(93, 91, 91);
+    margin-top: 6em;
+    padding: 20px;
+    margin-right: 40em;
+    background-color: white;
+  
+}
+.container h2{
+    color: rgb(69, 2, 2);
+    font-weight: 500;
+}
+.main-section1 h2{
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+}
